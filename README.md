@@ -21,4 +21,14 @@
 </div>
 
 ###
-![Preview](https://tthn0.vercel.app/api)
+<script src="https://open.spotify.com/embed/iframe-api/v1" async></script>
+<div id="embed-iframe"></div>
+window.onSpotifyIframeApiReady = (IFrameAPI) => {
+  const element = document.getElementById('embed-iframe');
+  const options = {
+      uri: 'spotify:episode:7makk4oTQel546B0PZlDM5'
+    };
+  const callback = (EmbedController) => {};
+  IFrameAPI.createController(element, options, callback);
+};
+
