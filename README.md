@@ -21,6 +21,7 @@
 </div>
 
 ###
+<scrip>
 const playlistId = '3H8cCFEZjLbdkyA3bnOp4q';
 
 <iframe
@@ -33,3 +34,4 @@ const playlistId = '3H8cCFEZjLbdkyA3bnOp4q';
   allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
   loading="lazy"
 />
+</scrip>
