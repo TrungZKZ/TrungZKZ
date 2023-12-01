@@ -21,14 +21,4 @@
 </div>
 
 ###
-<script src="https://open.spotify.com/embed/iframe-api/v1" async></script>
-<div id="embed-iframe"></div>
-window.onSpotifyIframeApiReady = (IFrameAPI) => {
-  const element = document.getElementById('embed-iframe');
-  const options = {
-      uri: 'spotify:episode:7makk4oTQel546B0PZlDM5'
-    };
-  const callback = (EmbedController) => {};
-  IFrameAPI.createController(element, options, callback);
-};
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hiehqxmxq3r7od54vfwmg3rqzy)
