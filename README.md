@@ -54,7 +54,7 @@
 ###
   ###
 
-  <img src="https://raw.githubusercontent.com/TrungZKZ/TrungZKZ/output/snake.svg" alt="Snake animation" />
+  <img align="center" src="https://raw.githubusercontent.com/TrungZKZ/TrungZKZ/output/snake.svg" alt="Snake animation" />
 </details>
 
 ###
