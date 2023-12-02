@@ -70,9 +70,9 @@
 
 ###
 
-<div align="left" height="50">
+<div align="left">
   <a href="https://open.spotify.com/user/31hiehqxmxq3r7od54vfwmg3rqzy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hiehqxmxq3r7od54vfwmg3rqzy&count=5" alt="Spotify recently played"  />
+    <img height="20" src="https://spotify-recently-played-readme.vercel.app/api?user=31hiehqxmxq3r7od54vfwmg3rqzy&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
