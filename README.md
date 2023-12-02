@@ -97,6 +97,5 @@
 </div>
 
 ###
-<div height="15">
+<img height="15" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TrungZKZ&theme=github_dark"/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TrungZKZ&theme=github_dark)
-</div>
