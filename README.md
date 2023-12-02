@@ -55,6 +55,10 @@
 
   ###
 
+  <img src="https://raw.githubusercontent.com/TrungZKZ/TrungZKZ/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <a href="https://codepen.io/TrungZKZ/pens/forked" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="70" height="20" alt="codepen logo"  />
