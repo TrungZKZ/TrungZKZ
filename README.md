@@ -48,7 +48,7 @@
 
 ###
 
-<p align="left">- 💤 Im Super Master Ultra Ultimate lazy 😒 <br>- 🤓 I like scientists because they can be lazy but still not be discriminated against<br>- 🎯 Goals: become a mechatronics engineer 🚀<br>- 👽 Hmm ... my mbti is INTP =)</p>
+<p align="left">- 💤 Im Super Master Ultra Ultimate lazy 😒 <br>- 🤓 I like scientists because they can be lazy but still not be discriminated against<br>- 🎯 Goals: become a mechatronics engineer 🚀<br>- 👽 Hmm ... my mbti is INTP </p>
 
 ###
 <p align="center">==================================================================</p>
