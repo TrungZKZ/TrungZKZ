@@ -44,14 +44,14 @@
 <div align="center">
   <img height="500" src="https://i.pinimg.com/originals/49/cd/d8/49cdd838e8c6d7fe5e2dd55deead5567.gif"  />
 </div>
-<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+<h1> Hey bro !! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
 
-<p> My name is Trung and I'm a Mechatronics student, from <img src="https://th.bing.com/th/id/OIP.6Yg_ZxzI7pzmP1V-6ikljgHaE7?pid=ImgDet&w=474&h=315&rs=1" width="17" /> <b> Việt Nam</b>. </p>
+<p> My name is Trung and I'm a Mechatronics student, from <img src="https://media3.giphy.com/media/kpI9kjCLW8UYKS7Dzx/giphy.gif?cid=ecf05e47l5u9fu1w3vm7rsr43ibunz7k0zxq6lq376s3g0xf&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="17" /> <b> Việt Nam</b>. </p>
 
 - 💤 Im Super Master Ultra Ultimate lazy 😒 
 - 🤓 I like scientists because they can be lazy but still not be discriminated against
 - 🎯 Goals: become a mechatronics engineer 🚀
-- 🎲 And ... my mbti is <img src="https://media1.giphy.com/media/mC0vfsamSRrbvk0E60/giphy.gif?cid=ecf05e470l9lrmjk8ojz3099vtq5b8zrcmci1b27y60rzb2c&ep=v1_stickers_search&rid=giphy.gif&ct=ts" width="50" /> INTP
+- 👽 And ... my mbti is INTP
 
   ###
 
@@ -73,4 +73,6 @@
   </a>
 </div>
 
+  ###
+  
 </details>
