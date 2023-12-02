@@ -41,9 +41,6 @@
 <details>
 <summary align="center">=================================================================</summary>
   
-<div align="right">
-  <img height="20" src="https://i.pinimg.com/originals/e1/78/73/e17873381a302d3fabd5ce3d330eccdf.gif"  />
-</div>
 <h1> Hey bro !! <img src="https://media3.giphy.com/media/kpI9kjCLW8UYKS7Dzx/giphy.gif?cid=ecf05e47l5u9fu1w3vm7rsr43ibunz7k0zxq6lq376s3g0xf&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" /></h1>
 
 <p> My name is Trung and I'm a Mechatronics student, from <img src="https://th.bing.com/th/id/OIP.4Xl22dI_wBe5bLzAn8HgVQHaFC?rs=1&pid=ImgDetMain" width="17" /> <b> Việt Nam</b>. </p>
@@ -61,6 +58,7 @@
 
 ###
 
+<H1 align="center">Contact me??</H1>
 <div align="center">
   <a href="https://codepen.io/TrungZKZ/pens/forked" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="70" height="20" alt="codepen logo"  />
