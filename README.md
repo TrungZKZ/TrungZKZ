@@ -97,4 +97,8 @@
 </div>
 
 ###
+<div align="center">
 <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TrungZKZ&theme=github_dark"/>
+<img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TrungZKZ&theme=github_dark"/>
+</div>
+
