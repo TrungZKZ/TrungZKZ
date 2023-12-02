@@ -44,7 +44,9 @@
 <div align="center">
   <img height="500" src="https://i.pinimg.com/originals/e4/63/44/e463446ad79fe415c77f6d3b24945995.gif"  />
 </div>
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
+<p> My name is Trung and I'm a Mechatronics student, from <img src="https://th.bing.com/th/id/OIP.6Yg_ZxzI7pzmP1V-6ikljgHaE7?pid=ImgDet&w=474&h=315&rs=1" width="17" /> <b>Paraná, Brasil</b>. </p>
 
 - 💤 Im Super Master Ultra Ultimate lazy 😒 
 - 🤓  I like scientists because they can be lazy but still not be discriminated against
