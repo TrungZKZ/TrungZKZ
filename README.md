@@ -46,7 +46,7 @@
 </div>
 <h1> Hey bro !! <img src="https://media3.giphy.com/media/kpI9kjCLW8UYKS7Dzx/giphy.gif?cid=ecf05e47l5u9fu1w3vm7rsr43ibunz7k0zxq6lq376s3g0xf&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" /></h1>
 
-<p> My name is Trung and I'm a Mechatronics student, from <img src="https://media3.giphy.com/media/kpI9kjCLW8UYKS7Dzx/giphy.gif?cid=ecf05e47l5u9fu1w3vm7rsr43ibunz7k0zxq6lq376s3g0xf&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="17" /> <b> Việt Nam</b>. </p>
+<p> My name is Trung and I'm a Mechatronics student, from <img src="https://th.bing.com/th/id/OIP.4Xl22dI_wBe5bLzAn8HgVQHaFC?rs=1&pid=ImgDetMain" width="17" /> <b> Việt Nam</b>. </p>
 
 - 💤 Im Super Master Ultra Ultimate lazy 😒 
 - 🤓 I like scientists because they can be lazy but still not be discriminated against
