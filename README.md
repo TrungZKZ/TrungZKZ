@@ -46,8 +46,8 @@
 </div>
 
 
-- ✨ Creating bugs since 2019
-- 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and docker 🐳
+- 💤 Im Super Master Ultra Ultimate lazy 😒 
+- 🤓  I like scientists because they can be lazy but still not be discriminated against
 - 🎯 Goals: live in a cold place ❄ and speak english 🚀
 - 🎲 And ... i play 🎸 guitar and ♟ chess online
 
