@@ -66,7 +66,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/TrungZKZ/TrungZKZ/output/snake.svg" alt="Snake animation" />
 
 ###
 
