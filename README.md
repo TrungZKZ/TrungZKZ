@@ -5,7 +5,7 @@
   <img height="200" src="https://i.pinimg.com/originals/25/f5/0b/25f50bca01a360d940cf512d2b336871.gif"  />
 </div>
 
-##c
+###c
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TrungZKZ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="100" alt="languages graph"  />
@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=TrungZKZ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="100" alt="stats graph"  />
 </div>
 
-##h
+###h
 
 <div align="center">
 <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TrungZKZ&theme=github_dark"/>
@@ -21,7 +21,7 @@
 </div>
 
 
-##ó
+###ó
 
 <div align="center">
 
@@ -46,15 +46,15 @@
 <p> My name is Trung and I'm a Mechatronics student, from <img src="https://th.bing.com/th/id/OIP.4Xl22dI_wBe5bLzAn8HgVQHaFC?rs=1&pid=ImgDetMain" width="17" /> <b> Việt Nam</b>. </p>
 
 
-##N
+###N
 
 <p align="left">- 💤 Im Super Master Ultra Ultimate lazy 😒 <br>- 🤓 I like scientists because they can be lazy but still not be discriminated against<br>- 🎯 Goals: become a mechatronics engineer 🚀<br>- 👽 Hmm ... my mbti is INTP </p>
 
-##H
+###H
 <p align="center">==================================================================</p>
 </details>
 
-##I
+###I
 
 <H3 align="center">Contact me?</H3>
 <div align="center">
@@ -73,6 +73,7 @@
   <a href="https://www.facebook.com/profile.php?id=100038539451953" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="70" height="20" alt="facebook logo"/>
   </a>
+### =)
   
   <a href="https://codesandbox.io/dashboard/recent?workspace=cb40c392-5dac-4277-81ac-2b232e29d9cc" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="70" height="20" alt="codesandbox logo"/>
