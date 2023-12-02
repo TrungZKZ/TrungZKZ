@@ -104,7 +104,7 @@
 
 ###
 
-<details>
+<details align="center">
 <summary>About</summary>
 
 <div align="center">
