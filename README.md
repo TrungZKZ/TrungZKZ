@@ -92,7 +92,7 @@
 
 ###
 
-<div align="center">
+<div>
 <img height="100" align="left" src="https://media1.giphy.com/media/9B8dqzmFI0yujEjfgg/giphy.gif?cid=ecf05e47z3suf2g291d61klo1rz97gsto8e0bz707tznxuic&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
 <div align="center">
   <a href="https://open.spotify.com/user/31hiehqxmxq3r7od54vfwmg3rqzy">
