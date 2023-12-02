@@ -64,8 +64,9 @@
   <img height="500" src="https://i.pinimg.com/originals/e4/63/44/e463446ad79fe415c77f6d3b24945995.gif"  />
 </div>
 
-
+<div align="left">
 - ✨ Creating bugs since 2019
 - 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and docker 🐳
 - 🎯 Goals: live in a cold place ❄ and speak english 🚀
 - 🎲 And ... i play 🎸 guitar and ♟ chess online
+</div>
