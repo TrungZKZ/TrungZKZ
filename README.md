@@ -44,7 +44,7 @@
 <div align="center">
   <img height="500" src="https://i.pinimg.com/originals/49/cd/d8/49cdd838e8c6d7fe5e2dd55deead5567.gif"  />
 </div>
-<h1> Hey bro !! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
+<h1> Hey bro !! <img src="https://media3.giphy.com/media/kpI9kjCLW8UYKS7Dzx/giphy.gif?cid=ecf05e47l5u9fu1w3vm7rsr43ibunz7k0zxq6lq376s3g0xf&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" /></h1>
 
 <p> My name is Trung and I'm a Mechatronics student, from <img src="https://media3.giphy.com/media/kpI9kjCLW8UYKS7Dzx/giphy.gif?cid=ecf05e47l5u9fu1w3vm7rsr43ibunz7k0zxq6lq376s3g0xf&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="17" /> <b> Việt Nam</b>. </p>
 
