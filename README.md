@@ -73,13 +73,11 @@
   <a href="https://www.facebook.com/profile.php?id=100038539451953" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="70" height="20" alt="facebook logo"/>
   </a>
-###
   
   <a href="https://codesandbox.io/dashboard/recent?workspace=cb40c392-5dac-4277-81ac-2b232e29d9cc" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="70" height="20" alt="codesandbox logo"/>
   </a>
 </div>
 
-  ###
   
 
