@@ -93,8 +93,8 @@
 ###
 
 
-<img height="100" align="right" src="https://media1.giphy.com/media/9B8dqzmFI0yujEjfgg/giphy.gif?cid=ecf05e47z3suf2g291d61klo1rz97gsto8e0bz707tznxuic&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
-<img height="100" align="right" src="https://media1.giphy.com/media/31vamYdZV5ISQ/giphy.gif?cid=ecf05e47q1gelt16g2d4xo3v9hxnmxkeapnf8o7c0hq8fg7t&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
+<img height="100" align="left" src="https://media1.giphy.com/media/9B8dqzmFI0yujEjfgg/giphy.gif?cid=ecf05e47z3suf2g291d61klo1rz97gsto8e0bz707tznxuic&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
+<img height="100" align="left" src="https://media1.giphy.com/media/31vamYdZV5ISQ/giphy.gif?cid=ecf05e47q1gelt16g2d4xo3v9hxnmxkeapnf8o7c0hq8fg7t&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
 
 
 ###
