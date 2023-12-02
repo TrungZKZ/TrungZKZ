@@ -8,52 +8,78 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="15" alt="apachecassandra logo"  />
-  <img width="0" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="15" alt="arduino logo"  />
-  <img width="0" />
-  <img src="https://cdn.simpleicons.org/amazondynamodb/4053D6" height="15" alt="amazondynamodb logo"  />
-  <img width="0" />
-  <img src="https://cdn.simpleicons.org/graphql/E10098" height="15" alt="graphql logo"  />
-  <img width="0" />
-  <img src="https://cdn.simpleicons.org/haxe/EA8220" height="15" alt="haxe logo"  />
-  <img width="0" />
+  <img src="https://cdn.simpleicons.org/pycharm/000000" height="15" alt="pycharm logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/codepen/000000" height="15" alt="codepen logo"  />
+  <img width="" />
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="15" alt="linux logo"  />
-  <img width="0" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="15" alt="android logo"  />
-  <img width="0" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="15" alt="docker logo"  />
-  <img width="0" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="15" alt="fastapi logo"  />
-  <img width="0" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="15" alt="firebase logo"  />
-  <img width="0" />
-  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="15" alt="gitlab logo"  />
-  <img width="0" />
-  <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="15" alt="godot logo"  />
-  <img width="0" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="15" alt="vscode logo"  />
-  <img width="0" />
-  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="15" alt="visualstudio logo"  />
-  <img width="0" />
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="15" alt="unity logo"  />
-  <img width="0" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="15" alt="ubuntu logo"  />
-  <img width="0" />
-  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="15" alt="terraform logo"  />
-  <img width="0" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="15" alt="supabase logo"  />
-  <img width="0" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="15" alt="react logo"  />
-  <img width="0" />
-  <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="15" alt="raspberrypi logo"  />
-  <img width="0" />
+  <img width="" />
   <img src="https://cdn.simpleicons.org/electron/47848F" height="15" alt="electron logo"  />
-  <img width="0" />
-  <img src="https://cdn.simpleicons.org/centos/262577" height="15" alt="centos logo"  />
-  <img width="0" />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="15" alt="apachecassandra logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="15" alt="arduino logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="15" alt="android logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="15" alt="nodejs logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="15" alt="anaconda logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="15" alt="opencv logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/blender/F5792A" height="15" alt="blender logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="15" alt="docker logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="15" alt="c logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/cmake/064F8C" height="15" alt="cmake logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/csharp/239120" height="15" alt="csharp logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="15" alt="css3 logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="15" alt="html5 logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="15" alt="javascript logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="15" alt="npm logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="15" alt="python logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="15" alt="fastapi logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="15" alt="gitlab logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="15" alt="firebase logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="15" alt="unity logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/vim/019733" height="15" alt="vim logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="15" alt="visualstudio logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="15" alt="vscode logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="15" alt="ubuntu logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/svg/FFB13B" height="15" alt="svg logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="15" alt="react logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/redux/764ABC" height="15" alt="redux logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="15" alt="raspberrypi logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="15" alt="numpy logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="15" alt="github logo"  />
+  <img width="" />
   <img src="https://cdn.simpleicons.org/unrealengine/0E1128" height="15" alt="unrealengine logo"  />
 </div>
+
+###
 
 ###
 
