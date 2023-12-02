@@ -45,7 +45,6 @@
 
 <p> My name is Trung and I'm a Mechatronics student, from <img src="https://th.bing.com/th/id/OIP.4Xl22dI_wBe5bLzAn8HgVQHaFC?rs=1&pid=ImgDetMain" width="17" /> <b> Việt Nam</b>. </p>
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/e1/78/73/e17873381a302d3fabd5ce3d330eccdf.gif"  />
 
 ###
 
