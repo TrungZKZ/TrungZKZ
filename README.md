@@ -51,61 +51,7 @@
 <p align="left">- 💤 Im Super Master Ultra Ultimate lazy 😒 <br>- 🤓 I like scientists because they can be lazy but still not be discriminated against<br>- 🎯 Goals: become a mechatronics engineer 🚀<br>- 👽 And ... my mbti is INTP</p>
 
 ###
-  ###
-  <img align="center" src="https://raw.githubusercontent.com/TrungZKZ/TrungZKZ/output/snake.svg" alt="Snake animation" />
-  <div align="center">
-  <img src="https://cdn.simpleicons.org/crystal/000000" height="20" alt="crystal logo"  />
-  <img width="" />
-  <img src="https://cdn.simpleicons.org/codepen/000000" height="20" alt="codepen logo"  />
-  <img width="" />
-  <img src="https://cdn.simpleicons.org/pycharm/000000" height="20" alt="pycharm logo"  />
-  <img width="" />
-  <img src="https://cdn.simpleicons.org/amazondynamodb/4053D6" height="20" alt="amazondynamodb logo"  />
-  <img width="" />
-  <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="20" alt="apachecassandra logo"  />
-  <img width="" />
-  <img src="https://cdn.simpleicons.org/apollographql/311C87" height="20" alt="apollographql logo"  />
-  <img width="" />
-  <img src="https://cdn.simpleicons.org/centos/262577" height="20" alt="centos logo"  />
-  <img width="" />
-  <img src="https://cdn.simpleicons.org/composer/885630" height="20" alt="composer logo"  />
-  <img width="" />
-  <img src="https://cdn.simpleicons.org/coffeescript/2F2625" height="20" alt="coffeescript logo"  />
-  <img width="" />
-  <img src="https://cdn.simpleicons.org/django/092E20" height="20" alt="django logo"  />
-  <img width="" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="20" alt="arduino logo"  />
-  <img width="" />
-  <img src="https://cdn.simpleicons.org/electron/47848F" height="20" alt="electron logo"  />
-  <img width="" />
-  <img src="https://cdn.simpleicons.org/bower/EF5734" height="20" alt="bower logo"  />
-  <img width="" />
-  <img src="https://cdn.simpleicons.org/grunt/FAA918" height="20" alt="grunt logo"  />
-  <img width="" />
-  <img src="https://cdn.simpleicons.org/haxe/EA8220" height="20" alt="haxe logo"  />
-  <img width="" />
-  <img src="https://cdn.simpleicons.org/ipfs/65C2CB" height="20" alt="ipfs logo"  />
-  <img width="" />
-  <img src="https://cdn.simpleicons.org/jenkins/D24939" height="20" alt="jenkins logo"  />
-  <img width="" />
-  <img src="https://cdn.simpleicons.org/jest/C21325" height="20" alt="jest logo"  />
-  <img width="" />
-  <img src="https://cdn.simpleicons.org/redux/764ABC" height="20" alt="redux logo"  />
-  <img width="" />
-  <img src="https://cdn.simpleicons.org/nixos/5277C3" height="20" alt="nixos logo"  />
-  <img width="" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="20" alt="numpy logo"  />
-  <img width="" />
-  <img src="https://cdn.simpleicons.org/apachegroovy/4298B8" height="20" alt="groovy logo"  />
-  <img width="" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="20" alt="github logo"  />
-  <img width="" />
-  <img src="https://cdn.simpleicons.org/deno/000000" height="20" alt="denojs logo"  />
-  <img width="" />
-  <img src="https://cdn.simpleicons.org/rust/000000" height="20" alt="rust logo"  />
-</div>
 
-###
 </details>
 
 ###
