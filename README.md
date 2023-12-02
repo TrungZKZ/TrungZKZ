@@ -41,8 +41,8 @@
 <details>
 <summary align="center">=================================================================</summary>
   
-<div align="center">
-  <img height="500" src="https://wallpaperaccess.com/full/849790.gif"  />
+<div align="right">
+  <img height="20" src="https://i.pinimg.com/originals/e1/78/73/e17873381a302d3fabd5ce3d330eccdf.gif"  />
 </div>
 <h1> Hey bro !! <img src="https://media3.giphy.com/media/kpI9kjCLW8UYKS7Dzx/giphy.gif?cid=ecf05e47l5u9fu1w3vm7rsr43ibunz7k0zxq6lq376s3g0xf&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" /></h1>
 
