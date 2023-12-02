@@ -51,7 +51,7 @@
 - 💤 Im Super Master Ultra Ultimate lazy 😒 
 - 🤓 I like scientists because they can be lazy but still not be discriminated against
 - 🎯 Goals: become a mechatronics engineer 🚀
-- 🎲 And ... i play 🎸 guitar and ♟ chess online
+- 🎲 And ... my mbti is <img src="https://media1.giphy.com/media/mC0vfsamSRrbvk0E60/giphy.gif?cid=ecf05e470l9lrmjk8ojz3099vtq5b8zrcmci1b27y60rzb2c&ep=v1_stickers_search&rid=giphy.gif&ct=ts" width="17" />
 
   ###
 
