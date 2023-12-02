@@ -10,11 +10,11 @@
 
 ###
 
-<img align="right" height="100" src="https://i.pinimg.com/originals/e4/60/fe/e460fe5c972017f544d7881f8d98a649.gif"  />
+<img align="right" height="100" src="https://media3.giphy.com/media/ttknk7M3d3UBEeZsii/giphy.gif?cid=ecf05e47cgxg7kbjzr1p9ubrrm3cxffi41ftbprlhdv9grz8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
-<div align="right">
+<div align="left">
   <a href="https://open.spotify.com/user/31hiehqxmxq3r7od54vfwmg3rqzy">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hiehqxmxq3r7od54vfwmg3rqzy&count=2&unique=true" alt="Spotify recently played"  />
   </a>
