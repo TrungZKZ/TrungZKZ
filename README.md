@@ -21,5 +21,4 @@
 </div>
 
 ###
-![Alt text](https://balico.com.vn/alt-text/)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hiehqxmxq3r7od54vfwmg3rqzy)
