@@ -48,11 +48,13 @@
 
 <p> My name is Trung and I'm a Mechatronics student, from <img src="https://th.bing.com/th/id/OIP.4Xl22dI_wBe5bLzAn8HgVQHaFC?rs=1&pid=ImgDetMain" width="17" /> <b> Việt Nam</b>. </p>
 
-- 💤 Im Super Master Ultra Ultimate lazy 😒 
-- 🤓 I like scientists because they can be lazy but still not be discriminated against
-- 🎯 Goals: become a mechatronics engineer 🚀
-- 👽 And ... my mbti is INTP
+<img align="right" height="150" src="https://i.pinimg.com/originals/e1/78/73/e17873381a302d3fabd5ce3d330eccdf.gif"  />
 
+###
+
+<p align="left">- 💤 Im Super Master Ultra Ultimate lazy 😒 <br>- 🤓 I like scientists because they can be lazy but still not be discriminated against<br>- 🎯 Goals: become a mechatronics engineer 🚀<br>- 👽 And ... my mbti is INTP</p>
+
+###
   ###
 
   <img src="https://raw.githubusercontent.com/TrungZKZ/TrungZKZ/output/snake.svg" alt="Snake animation" />
