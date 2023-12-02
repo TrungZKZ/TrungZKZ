@@ -111,7 +111,4 @@
 <summary>=================================================================</summary>
 
 
-<div align="center">
-  <img  height="250" src="https://doaniot-bc245.web.app/"  />
-</div>
 
