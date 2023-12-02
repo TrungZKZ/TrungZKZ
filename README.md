@@ -7,9 +7,18 @@
 
 ###
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TrungZKZ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="100" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=TrungZKZ&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="99" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TrungZKZ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="100" alt="stats graph"  />
+</div>
 
 ###
+
+<div align="center">
+<img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TrungZKZ&theme=github_dark"/>
+<img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TrungZKZ&theme=github_dark"/>
+</div>
 
 ###
 
@@ -32,23 +41,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TrungZKZ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="100" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=TrungZKZ&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="99" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=TrungZKZ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="100" alt="stats graph"  />
-</div>
-
-###
-
-<div align="center">
-<img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TrungZKZ&theme=github_dark"/>
-<img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TrungZKZ&theme=github_dark"/>
-</div>
-
-###
-
-
 
 <div align="center">
 
