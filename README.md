@@ -49,8 +49,8 @@
 <p> My name is Trung and I'm a Mechatronics student, from <img src="https://th.bing.com/th/id/OIP.6Yg_ZxzI7pzmP1V-6ikljgHaE7?pid=ImgDet&w=474&h=315&rs=1" width="17" /> <b> Việt Nam</b>. </p>
 
 - 💤 Im Super Master Ultra Ultimate lazy 😒 
-- 🤓  I like scientists because they can be lazy but still not be discriminated against
-- 🎯 Goals: live in a cold place ❄ and speak english 🚀
+- 🤓 I like scientists because they can be lazy but still not be discriminated against
+- 🎯 Goals: become a mechatronics engineer 🚀
 - 🎲 And ... i play 🎸 guitar and ♟ chess online
 
   ###
