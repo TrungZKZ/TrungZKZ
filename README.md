@@ -27,7 +27,7 @@
 
 <img height="50" align="center" src="https://media1.giphy.com/media/9B8dqzmFI0yujEjfgg/giphy.gif?cid=ecf05e47z3suf2g291d61klo1rz97gsto8e0bz707tznxuic&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
   <img height="50" align="center" src="https://media1.giphy.com/media/31vamYdZV5ISQ/giphy.gif?cid=ecf05e47q1gelt16g2d4xo3v9hxnmxkeapnf8o7c0hq8fg7t&ep=v1_stickers_search&rid=giphy.gif&ct=s"/>
-    <img height="50" align="center" src="https://media0.giphy.com/media/4QZK21zlzVIyc/giphy.gif?cid=ecf05e47orkvbb2kygz367hg4fghl0x9zksg8rk4cq32wewq&ep=v1_stickers_search&rid=giphy.gif&ct=s"/>
+    <img height="50" align="center" src="https://media2.giphy.com/media/SP3eWzz1O8vkcbklVq/giphy.gif?cid=ecf05e474ilrbz377t5l2inn1td3aeqfrzrl8myuidzyqrts&ep=v1_stickers_search&rid=giphy.gif&ct=s"/>
 <div align="center">
   <a href="https://open.spotify.com/user/31hiehqxmxq3r7od54vfwmg3rqzy">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hiehqxmxq3r7od54vfwmg3rqzy&count=4" alt="Spotify recently played"  />
@@ -56,9 +56,9 @@
 
 ###
 
-<H3 align="center">Contact me?</H3>
+<H4 align="center">Contact me?</H4>
 <div align="center">
-  <a href="https://codepen.io/TrungZKZ/pens/forked" target="_blank">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="70" height="20" alt="codepen logo"/>
   </a>
   
@@ -74,7 +74,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="70" height="20" alt="facebook logo"/>
   </a>
   
-  <a href="https://codesandbox.io/dashboard/recent?workspace=cb40c392-5dac-4277-81ac-2b232e29d9cc" target="_blank">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="70" height="20" alt="codesandbox logo"/>
   </a>
 </div>
