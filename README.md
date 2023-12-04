@@ -2,13 +2,13 @@
   <img height="200" src="https://i.pinimg.com/originals/25/f5/0b/25f50bca01a360d940cf512d2b336871.gif"  />
 </div>
 <div align="center">
-  <img src="https://c.tenor.com/EaVKs4K0iGkAAAAC/black-hole.gif" height="100"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TrungZKZ&theme=github_dark" height="100"  />
   <img src="https://streak-stats.demolab.com?user=TrungZKZ&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="99" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=TrungZKZ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="100" alt="stats graph"  />
 </div>
 <div align="center">
 <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TrungZKZ&theme=github_dark"/>
-<img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TrungZKZ&theme=github_dark"/>
+<img height="150" src="https://c.tenor.com/EaVKs4K0iGkAAAAC/black-hole.gif"/>
 </div>
 <div align="center">
 <img height="50" align="center" src="https://media1.giphy.com/media/9B8dqzmFI0yujEjfgg/giphy.gif?cid=ecf05e47z3suf2g291d61klo1rz97gsto8e0bz707tznxuic&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
