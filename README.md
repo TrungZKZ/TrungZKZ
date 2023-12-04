@@ -26,8 +26,6 @@
 </div>
 </div>
 <div align="center">
-  <img src="https://cdn.simpleicons.org/centos/262577" height="12" alt="centos logo"  />
-  <img width="" />
   <img src="https://cdn.simpleicons.org/electron/47848F" height="12" alt="electron logo"  />
   <img width="" />
   <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="12" alt="apachecassandra logo"  />
@@ -38,15 +36,11 @@
   <img width="" />
   <img src="https://cdn.simpleicons.org/haxe/EA8220" height="12" alt="haxe logo"  />
   <img width="" />
-  <img src="https://cdn.simpleicons.org/octave/0790C0" height="12" alt="octave logo"  />
-  <img width="" />
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="12" alt="linux logo"  />
   <img width="" />
   <img src="https://cdn.simpleicons.org/graphql/E10098" height="12" alt="graphql logo"  />
   <img width="" />
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="12" alt="arduino logo"  />
-  <img width="" />
-  <img src="https://cdn.simpleicons.org/codecov/F01F7A" height="12" alt="codecov logo"  />
   <img width="" />
   <img src="https://cdn.simpleicons.org/lit/324FFF" height="12" alt="lit logo"  />
   <img width="" />
@@ -82,19 +76,13 @@
   <img width="" />
   <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="12" alt="visualstudio logo"  />
   <img width="" />
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="12" alt="pytorch logo"  />
-  <img width="" />
   <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="12" alt="terraform logo"  />
-  <img width="" />
-  <img src="https://cdn.simpleicons.org/neovim/57A143" height="12" alt="neovim logo"  />
   <img width="" />
   <img src="https://cdn.simpleicons.org/thealgorithms/00BCB4" height="12" alt="thealgorithms logo"  />
   <img width="" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="12" alt="nodejs logo"  />
   <img width="" />
   <img src="https://cdn.simpleicons.org/redux/764ABC" height="12" alt="redux logo"  />
-  <img width="" />
-  <img src="https://cdn.simpleicons.org/apachetomcat/F8DC75" height="12" alt="tomcat logo"  />
   <img width="" />
   <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="12" alt="raspberrypi logo"  />
   <img width="" />
