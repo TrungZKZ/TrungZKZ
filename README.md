@@ -24,21 +24,8 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hiehqxmxq3r7od54vfwmg3rqzy&count=4" alt="Spotify recently played"  />
   </a>
 </div>
-
 </div>
-
-###
-
-<details>
-<summary align="center">=============================================================</summary>
-<div align="left">
-  <h1> Hey bro !! <img src="https://media1.giphy.com/media/oz45ELYgMoYVsZqmor/giphy.gif?cid=ecf05e47px0klyq96eapdo7d4rddpoi3o2f4q7xjx9ythqr7&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" /></h1>
-<p>My name is Trung and I'm a Mechatronics student, from <img src="https://th.bing.com/th/id/OIP.4Xl22dI_wBe5bLzAn8HgVQHaFC?rs=1&pid=ImgDetMain" width="17" /> <b> Việt Nam</b>. </p>
-<p align="left">- 💤 Im Super Master Ultra Ultimate Extreme laziness 😒 <br>- 🤓 I like scientists because they can be lazy but still not be discriminated against<br>- 🎯 Goals: become a mechatronics engineer 🚀<br>- 👽 Hmm ... my mbti is INTP </p></div>
-
-###
-  
-  <div align="center">
+<div align="center">
   <img src="https://cdn.simpleicons.org/centos/262577" height="12" alt="centos logo"  />
   <img width="" />
   <img src="https://cdn.simpleicons.org/electron/47848F" height="12" alt="electron logo"  />
@@ -115,6 +102,12 @@
   <img width="" />
   <img src="https://cdn.simpleicons.org/perl/39457E" height="12" alt="perl logo"  />
 </div>
+<details>
+<summary align="center">=============================================================</summary>
+<div align="left">
+  <h1> Hey bro !! <img src="https://media1.giphy.com/media/oz45ELYgMoYVsZqmor/giphy.gif?cid=ecf05e47px0klyq96eapdo7d4rddpoi3o2f4q7xjx9ythqr7&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" /></h1>
+<p>My name is Trung and I'm a Mechatronics student, from <img src="https://th.bing.com/th/id/OIP.4Xl22dI_wBe5bLzAn8HgVQHaFC?rs=1&pid=ImgDetMain" width="17" /> <b> Việt Nam</b>. </p>
+<p align="left">- 💤 Im Super Master Ultra Ultimate Extreme laziness 😒 <br>- 🤓 I like scientists because they can be lazy but still not be discriminated against<br>- 🎯 Goals: become a mechatronics engineer 🚀<br>- 👽 Hmm ... my mbti is INTP </p></div>
 <p align="center">==============================================================</p>
 </details>
 
