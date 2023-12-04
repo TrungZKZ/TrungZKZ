@@ -1,12 +1,6 @@
-
-###
-
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/25/f5/0b/25f50bca01a360d940cf512d2b336871.gif"  />
 </div>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TrungZKZ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="100" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=TrungZKZ&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="99" alt="streak graph"  />
@@ -36,12 +30,12 @@
 ###
 
 <details>
-<summary align="center">=================================================================</summary>
+<summary align="center">=============================================================</summary>
 <div align="left">
   <h1> Hey bro !! <img src="https://media1.giphy.com/media/oz45ELYgMoYVsZqmor/giphy.gif?cid=ecf05e47px0klyq96eapdo7d4rddpoi3o2f4q7xjx9ythqr7&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" /></h1>
 <p>My name is Trung and I'm a Mechatronics student, from <img src="https://th.bing.com/th/id/OIP.4Xl22dI_wBe5bLzAn8HgVQHaFC?rs=1&pid=ImgDetMain" width="17" /> <b> Việt Nam</b>. </p>
 <p align="left">- 💤 Im Super Master Ultra Ultimate Extreme laziness 😒 <br>- 🤓 I like scientists because they can be lazy but still not be discriminated against<br>- 🎯 Goals: become a mechatronics engineer 🚀<br>- 👽 Hmm ... my mbti is INTP </p></div>
-<p align="center">==================================================================</p>
+<p align="center">==============================================================</p>
 </details>
 
 ###
