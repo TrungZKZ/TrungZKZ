@@ -11,7 +11,22 @@
 <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TrungZKZ&theme=github_dark"/>
 </div>
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="30" height="20" alt="youtube logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/15458680/trung-l%c3%aa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="30" height="20" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100038539451953" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="30" height="20" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/trung_4869/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="20" alt="instagram logo"  />
+  </a>
+</div>
 
+###
 ###
 
 <div align="center">
@@ -105,6 +120,7 @@
 ###
 
 <H4 align="center">Contact me?</H4>
+
 <div align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="30" height="20" alt="youtube logo"  />
@@ -119,8 +135,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="20" alt="instagram logo"  />
   </a>
 </div>
-
-###
 
 
   
