@@ -35,6 +35,86 @@
   <h1> Hey bro !! <img src="https://media1.giphy.com/media/oz45ELYgMoYVsZqmor/giphy.gif?cid=ecf05e47px0klyq96eapdo7d4rddpoi3o2f4q7xjx9ythqr7&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" /></h1>
 <p>My name is Trung and I'm a Mechatronics student, from <img src="https://th.bing.com/th/id/OIP.4Xl22dI_wBe5bLzAn8HgVQHaFC?rs=1&pid=ImgDetMain" width="17" /> <b> Việt Nam</b>. </p>
 <p align="left">- 💤 Im Super Master Ultra Ultimate Extreme laziness 😒 <br>- 🤓 I like scientists because they can be lazy but still not be discriminated against<br>- 🎯 Goals: become a mechatronics engineer 🚀<br>- 👽 Hmm ... my mbti is INTP </p></div>
+
+###
+  
+  <div align="center">
+  <img src="https://cdn.simpleicons.org/centos/262577" height="12" alt="centos logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/electron/47848F" height="12" alt="electron logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="12" alt="apachecassandra logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/amazondynamodb/4053D6" height="12" alt="amazondynamodb logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/cmake/064F8C" height="12" alt="cmake logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/haxe/EA8220" height="12" alt="haxe logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/octave/0790C0" height="12" alt="octave logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="12" alt="linux logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/graphql/E10098" height="12" alt="graphql logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="12" alt="arduino logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/codecov/F01F7A" height="12" alt="codecov logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/lit/324FFF" height="12" alt="lit logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="12" alt="codeigniter logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="12" alt="angularjs logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/digitalocean/0080FF" height="12" alt="digitalocean logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="12" alt="androidstudio logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="12" alt="fastapi logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="12" alt="firebase logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="12" alt="gitlab logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="12" alt="unity logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="12" alt="supabase logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/opensuse/73BA25" height="12" alt="opensuse logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="12" alt="nestjs logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/reactivex/B7178C" height="12" alt="reactivex logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="12" alt="ubuntu logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/svg/FFB13B" height="12" alt="svg logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="12" alt="react logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="12" alt="visualstudio logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="12" alt="pytorch logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="12" alt="terraform logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/neovim/57A143" height="12" alt="neovim logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/thealgorithms/00BCB4" height="12" alt="thealgorithms logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="12" alt="nodejs logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/redux/764ABC" height="12" alt="redux logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/apachetomcat/F8DC75" height="12" alt="tomcat logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="12" alt="raspberrypi logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/podman/892CA0" height="12" alt="podman logo"  />
+  <img width="" />
+  <img src="https://cdn.simpleicons.org/perl/39457E" height="12" alt="perl logo"  />
+</div>
 <p align="center">==============================================================</p>
 </details>
 
