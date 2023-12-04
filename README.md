@@ -27,7 +27,10 @@
 
 <img height="50" align="center" src="https://media1.giphy.com/media/9B8dqzmFI0yujEjfgg/giphy.gif?cid=ecf05e47z3suf2g291d61klo1rz97gsto8e0bz707tznxuic&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
   <img height="50" align="center" src="https://media1.giphy.com/media/31vamYdZV5ISQ/giphy.gif?cid=ecf05e47q1gelt16g2d4xo3v9hxnmxkeapnf8o7c0hq8fg7t&ep=v1_stickers_search&rid=giphy.gif&ct=s"/>
-    <img height="50" align="center" src="https://media2.giphy.com/media/SP3eWzz1O8vkcbklVq/giphy.gif?cid=ecf05e474ilrbz377t5l2inn1td3aeqfrzrl8myuidzyqrts&ep=v1_stickers_search&rid=giphy.gif&ct=s"/>
+    <img height="50" align="center" src="https://media4.giphy.com/media/9PwWklO9tSELtIhBka/giphy.gif?cid=ecf05e4740qshq8iv11aq6r315t9omoyf6dvvf8why96p8rq&ep=v1_stickers_search&rid=giphy.gif&ct=s"/>
+
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/31hiehqxmxq3r7od54vfwmg3rqzy">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hiehqxmxq3r7od54vfwmg3rqzy&count=4" alt="Spotify recently played"  />
