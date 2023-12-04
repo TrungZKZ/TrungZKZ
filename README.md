@@ -26,7 +26,16 @@
 
 ###
 
-<div align="center">
+<details>
+<summary align="center">=============================================================</summary>
+<div align="left">
+  <h1> Hey bro !! <img src="https://media1.giphy.com/media/oz45ELYgMoYVsZqmor/giphy.gif?cid=ecf05e47px0klyq96eapdo7d4rddpoi3o2f4q7xjx9ythqr7&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" /></h1>
+<p>My name is Trung and I'm a Mechatronics student, from <a href="https://en.wikipedia.org/wiki/Vietnam"><img src="https://th.bing.com/th/id/OIP.4Xl22dI_wBe5bLzAn8HgVQHaFC?rs=1&pid=ImgDetMain" width="17" /></a> <b> Việt Nam</b>. </p>
+<p align="left">- 💤 Im Super Master Ultra Ultimate Extreme laziness 😒 <br>- 🤓 I like scientists because they can be lazy but still not be discriminated against<br>- 🎯 Goals: become a mechatronics engineer 🚀<br>- 👽 Hmm ... my mbti is INTP </p></div>
+
+###
+  
+  <div align="center">
   <img src="https://cdn.simpleicons.org/electron/47848F" height="12" alt="electron logo"  />
   <img width="" />
   <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="12" alt="apachecassandra logo"  />
@@ -91,12 +100,6 @@
   <img width="" />
   <img src="https://cdn.simpleicons.org/perl/39457E" height="12" alt="perl logo"  />
 </div>
-<details>
-<summary align="center">=============================================================</summary>
-<div align="left">
-  <h1> Hey bro !! <img src="https://media1.giphy.com/media/oz45ELYgMoYVsZqmor/giphy.gif?cid=ecf05e47px0klyq96eapdo7d4rddpoi3o2f4q7xjx9ythqr7&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" /></h1>
-<p>My name is Trung and I'm a Mechatronics student, from <a href="https://en.wikipedia.org/wiki/Vietnam"><img src="https://th.bing.com/th/id/OIP.4Xl22dI_wBe5bLzAn8HgVQHaFC?rs=1&pid=ImgDetMain" width="17" /></a> <b> Việt Nam</b>. </p>
-<p align="left">- 💤 Im Super Master Ultra Ultimate Extreme laziness 😒 <br>- 🤓 I like scientists because they can be lazy but still not be discriminated against<br>- 🎯 Goals: become a mechatronics engineer 🚀<br>- 👽 Hmm ... my mbti is INTP </p></div>
 <p align="center">==============================================================</p>
 </details>
 
