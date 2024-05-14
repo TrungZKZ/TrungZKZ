@@ -1,3 +1,3 @@
   <div align="center">
-  <img src="https://static.tumblr.com/02f39539bc3b125b2e8b672d481625a5/tsmou6g/IbGonikgf/tumblr_static_60wsn35iv00s0s0wskgg0gggc.gif"/>
+  <img src="https://64.media.tumblr.com/a7dc973a23e715d075ac1aa5ad457968/tumblr_p1qvszLlDC1w4t58uo2_540.gifv"/>
   </div>
