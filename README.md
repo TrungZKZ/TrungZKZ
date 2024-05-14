@@ -1,3 +1,3 @@
   <div align="center">
-  <img src="https://cdn.simpleicons.org/electron/47848F" height="12" alt="electron logo"  /><img width="" /> 
+  <img src="https://i.pinimg.com/originals/49/cd/d8/49cdd838e8c6d7fe5e2dd55deead5567.gif" alt="electron logo"  /><img width="" /> 
   </div>
